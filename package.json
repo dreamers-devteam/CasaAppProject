@@ -1,0 +1,39 @@
+{
+    "name": "casa-app",
+    "version": "3.0.0",
+    "description": "Bot Discord manager yang dapat memanage servermu dengan baik tapi hati-hati bot ini juga bisa badmood",
+    "main": "casa.js",
+    "scripts": {
+        "start": "node casa.js"
+    },
+    "author": "Dreams w Clevone Dev",
+    "license": "MPL",
+    "dependencies": {
+        "@discordjs/builders": "^1.6.0",
+        "@discordjs/rest": "^2.4.0",
+        "@discordjs/voice": "^0.19.0",
+        "@google/generative-ai": "^0.24.1",
+        "@napi-rs/canvas": "^1.0.0",
+        "@snazzah/davey": "^0.1.6",
+        "axios": "^1.16.1",
+        "chalk": "^4.1.2",
+        "child": "^0.0.3",
+        "crypto-js": "^4.2.0",
+        "discord-html-transcripts": "^3.1.0",
+        "discord.js": "^14.24.0",
+        "dotenv": "^16.6.1",
+        "figlet": "^1.9.3",
+        "fs": "^0.0.1-security",
+        "groq-sdk": "^1.2.0",
+        "moment": "^2.29.4",
+        "mongodb": "^6.20.0",
+        "mongoose": "^7.8.7",
+        "mpg123": "^0.2.3",
+        "play-sound": "^1.1.6",
+        "pptxgenjs": "^4.0.1",
+        "uuid": "^13.0.0",
+        "ytdl-core": "^4.11.5"
+    },
+    "keywords": [],
+    "type": "commonjs"
+}

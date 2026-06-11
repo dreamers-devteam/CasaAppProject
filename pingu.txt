@@ -1,0 +1,3 @@
+Pingu App adalah sebuah bot Discord, Whatsapp, Telegram yang bisa digunakan dari platform manapun ( MD / Multi Platform ) yang dikembangkan oleh Clevone Team dan Dreams Akanza selain itu Pingu App juga di support oleh beberapa pihak.
+
+Pingu App mempunyai Main Systems and Core yang dikembangkan dari awal oleh Clevone Team dan Dreams Akanza. Pcore's / Pingu Core mempunyai Core Systems yang bernama Pikachu Core dan Main Systems seperti ICC ( Intructions Cube Core ) dan OS ( Oceans Secure ) untuk menjadi Secure Main System Pingu App

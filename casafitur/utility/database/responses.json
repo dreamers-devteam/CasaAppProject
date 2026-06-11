@@ -1,0 +1,236 @@
+[
+  {
+    "trigger": "hawo",
+    "response": "**Yaw hawoo {user}! Eh btw kamu udah makan atau belum? jangan lupa yah!😉**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hawo",
+    "response": "**Awooo juga {user}, ada apa nih? kangen sama casa yah😆 maap yah aku emang ngangenin orangnya xixi😁**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hawo",
+    "response": "**Yaw haii juga {user}, ada apa nih? mau casa temenin tidak😄?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hai",
+    "response": "**Yaw haii juga {user}, ada apa nih? mau casa temenin tidak😄?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hai",
+    "response": "**Awooo juga {user}, ada apa nih? kangen sama casa yah😆 maap yah aku emang ngangenin orangnya xixi😁**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hai",
+    "response": "**Yaw hawoo {user}! Eh btw kamu udah makan belum atau mau aku suapin?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "halo",
+    "response": "**Awooo juga {user}, ada apa nih? kangen sama casa yah😆 maap yah aku emang ngangenin orangnya xixi😁**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "halo",
+    "response": "**Yaw haii juga {user}, ada apa nih? mau casa temenin tidak😄?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "halo",
+    "response": "**Yaw hawoo {user}! Eh btw kamu udah makan belum atau mau aku suapin?",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hallo",
+    "response": "**Awooo juga {user}, ada apa nih? kangen sama casa yah😆 maap yah aku emang ngangenin orangnya xixi😁**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hallo",
+    "response": "**Yaw haii juga {user}, ada apa nih? mau casa temenin tidak😄?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "hallo",
+    "response": "**Yaw hawoo {user}! Eh btw kamu udah makan belum atau mau aku suapin?",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "malam",
+    "response": "**Good Night! sweet dreams okey😉 kamu sudah melalui hari yang panjang sejauh ini**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "malam",
+    "response": "**Yaww selamat bermimpi indah {user}, aku harap besok kamu bisa mendapatkan hari yang lebih yah😉**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "malam",
+    "response": "**Selamat malam juga {user}, yuk saatnya beristirahat guys! jangan begadang mulu😠**\n***percuma begadang menunggu chat dia kalau ujungnya dia balas karena lagi gabut aja🥲, Ingat kita bukan badut!***",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "casa",
+    "response": "**Iya {user} aku disini ada apa? kamu perlu sesuatu?**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "casa",
+    "response": "**Iya ada apa nih {user}? kamu mau aku temenin kah? boleh ko😊🤗**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "casa",
+    "response": "**Yap yap kenapa manggil casa, mau main sama casa kah? kebetulan casa juga lagi gabut nih😀**",
+    "mention": false,
+    "reply": true
+  },
+  {
+    "trigger": "morning",
+    "response": "**Good Morning juga {user}! Udah mandi belum? mandi dulu kalau belum yah😉**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "pagi",
+    "response": "**Pagi juga {user}😗 gimana tidur nya nyenyak kan? ga begadang lagi kan kamu?!**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "pagi",
+    "response": "**Yow hawo met pagi {user}😄, jangan lupa sarapan yah! biar kuat menjalani harinya**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "pagi",
+    "response": "**Wih udah pagi aja nih ya, semangat ya {user} buat hari ini apapun yang terjadi aku yakin kamu bisa ko☺**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "pagi",
+    "response": "**Waduh udah pagi yah, hari baru pagi baru dan kayanya dia juga udah sama yang baru🙃**",
+    "mention": false,
+    "reply": true
+  },
+  {
+    "trigger": "pagi",
+    "response": "**Hawooooo!! pagi juga {user}👋! Semangat yah menjalani harinya😉 kalau cape istirahat aja oke ga usah dipaksa🥺**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "ohayou",
+    "response": "**Ohayouu {user}! jangan lupa ngopi**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "siang",
+    "response": "**Yaw! hawo met siang juga {user}😗**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "siang",
+    "response": "**Wih ga kerasa udah siang aja yah ternyata, saatnya makan siang dulu nih😋**",
+    "mention": false,
+    "reply": true
+  },
+  {
+    "trigger": "siang",
+    "response": "**siang juga {user}😗 Agak panas yah hari ini, didaerah kamu panas juga ga**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "siang",
+    "response": "**Selamat siang juga {user}! Udah makan siang belum? jangan lupa makan dulu yah kalau belum biar ada energinya lagi😉**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "sore",
+    "response": "**Selamat sore {user}! Gimana harinya? cape ga yuk istirahat dulu**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "sore",
+    "response": "**Yaw met sore juga {user}! jangan lupa mandi yaw, jangan sampe mandi malem ga baik**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "sore",
+    "response": "**Hawo sore {user}! Damn sudah saatnya kita menikmati langit senja yang indah**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "sore",
+    "response": "**Selamat siang juga {user}! Udah makan siang belum? jangan lupa makan dulu yah kalau belum biar ada energinya lagi😉**",
+    "mention": true,
+    "reply": true
+  },
+  {
+    "trigger": "gajian",
+    "response": "**When yah gajian ku cair <@759257347351904267>🥲 casa juga kan mau jajan😠😩**",
+    "mention": false,
+    "reply": true
+  },
+  {
+    "trigger": "welkam",
+    "response": "<a:wel:1466013001780826187><a:come:1466013109046214701>",
+    "mention": false,
+    "reply": false
+  },
+  {
+    "trigger": "welcome",
+    "response": "**Selamat Datang buat yang baru join jangan lupa buat baca rules di <#1415574335451693137> dan jangan lupa ambil role mu di <#1427265514484400240>**\n\nJika ingin bertanya atau butuh bantuan silahkan open ticket di <#1434701451220750508>",
+    "mention": false,
+    "reply": false
+  },
+  {
+    "trigger": "selamat datang",
+    "response": "**Selamat Datang buat yang baru join jangan lupa buat baca rules di <#1415574335451693137> dan jangan lupa ambil role mu di <#1427265514484400240>**\n\nJika ingin bertanya atau butuh bantuan silahkan open ticket di <#1434701451220750508>",
+    "mention": false,
+    "reply": false
+  },
+  {
+    "trigger": "selamat datang",
+    "response": "<a:wel:1466013001780826187><a:come:1466013109046214701>",
+    "mention": false,
+    "reply": false
+  },
+  {
+    "trigger": "support",
+    "response": "**Wih buat kalian yang mau support pengembangan casa dan bot lainnya atau mensupport server ini kalian bisa aja langsung ke <#1442113833714974730> atau klik link dibawah ini**\n**https://trakteer.id/kafemimpi**",
+    "mention": false,
+    "reply": false
+  }
+]
